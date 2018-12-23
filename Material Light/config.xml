@@ -2,7 +2,7 @@
   <Theme>
     <Info
       name="Material Light"
-      version="2.0"
+      version="2.0.1"
       author="SheepyDev"
       email="contact@sheepydev.com"
       website="sheepydev.com"
@@ -16,7 +16,9 @@
       bottombar=""
       bottombarcolor="#ffffff"
       backcolor="#fafafa"
-      statuscolor="#ffffff" />
+      menubackgroundcolor="#c7c7c7"
+      menutextcolor="#000000"
+      statuscolor="#fafafa" />
     <toolbar_icon
       back="ViewPreviousImage.svg"
       next="ViewNextImage.svg"
