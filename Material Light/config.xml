@@ -1,7 +1,48 @@
 <ImageGlass>
   <Theme>
-    <Info name="Material Light" version="1.1" author="MarnickS" email="" website="gp9.home.xs4all.nl/imageglass" description="Kinda white Material Design theme for ImageGlass" type="ImageGlass Theme Configuration" compatibility="5.0" preview="preview.png" />
-    <main topbar="" topbarcolor="#C0C0C0" bottombar="" bottombarcolor="#C0C0C0" backcolor="#DCDCDC" statuscolor="#2F4F4F" />
-    <toolbar_icon back="ViewPreviousImage.svg" next="ViewNextImage.svg" leftrotate="RotateLeft.svg" rightrotate="RotateRight.svg" delete="Delete.svg" zoomin="ZoomIn.svg" zoomout="ZoomOut.svg" zoomtofit="ZoomToFit.svg" zoomlock="LockRatio.svg" scaletofit="ActualSize.svg" scaletowidth="ScaleToWidth.svg" scaletoheight="ScaleToHeight.svg" autosizewindow="AdjustWindowSize.svg" open="OpenFile.svg" refresh="Refresh.svg" gotoimage="GoToImage.svg" thumbnail="ThumbnailBar.svg" checkerboard="Checkerboard.svg" fullscreen="FullScreen.svg" slideshow="Slideshow.svg" convert="Convert.svg" print="Print.svg" uploadfb="Sharing.svg" extension="Plugins.svg" settings="Settings.svg" about="About.svg" menu="Menu.svg" />
+    <Info
+      name="Material Light"
+      version="2.0"
+      author="SheepyDev"
+      email="contact@sheepydev.com"
+      website="sheepydev.com"
+      description="Light-colored (open-source) Material Design theme for ImageGlass. GitHub repo: https://github.com/SheepyDev/material-imageglass-themes"
+      type="ImageGlass Theme Configuration"
+      compatibility="6.0"
+      preview="preview.png" />
+    <main
+      topbar=""
+      topbarcolor="#c7c7c7"
+      bottombar=""
+      bottombarcolor="#ffffff"
+      backcolor="#fafafa"
+      statuscolor="#ffffff" />
+    <toolbar_icon
+      back="ViewPreviousImage.svg"
+      next="ViewNextImage.svg"
+      leftrotate="RotateLeft.svg"
+      rightrotate="RotateRight.svg"
+      delete="Delete.svg"
+      zoomin="ZoomIn.svg"
+      zoomout="ZoomOut.svg"
+      zoomtofit="ZoomToFit.svg"
+      zoomlock="LockRatio.svg"
+      scaletofit="ActualSize.svg"
+      scaletowidth="ScaleToWidth.svg"
+      scaletoheight="ScaleToHeight.svg"
+      autosizewindow="AdjustWindowSize.svg"
+      open="OpenFile.svg"
+      refresh="Refresh.svg"
+      gotoimage="GoToImage.svg"
+      thumbnail="ThumbnailBar.svg"
+      checkerboard="Checkerboard.svg"
+      fullscreen="FullScreen.svg"
+      slideshow="Slideshow.svg"
+      convert="Convert.svg"
+      print="Print.svg"
+      menu="Menu.svg"
+      fliphorz="FlipHorz.svg"
+      flipvert="FlipVert.svg"
+      autozoom="AutoZoom.svg" />
   </Theme>
 </ImageGlass>
