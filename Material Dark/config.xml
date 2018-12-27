@@ -2,7 +2,7 @@
   <Theme>
     <Info
       name="Material Dark"
-      version="2.0.1"
+      version="2.0.1.1"
       author="SheepyDev"
       email="contact@sheepydev.com"
       website="sheepydev.com"
@@ -16,7 +16,7 @@
       bottombar=""
       bottombarcolor="#484848"
       backcolor="#212121"
-      menubackgroundcolor="#000000"
+      menubackgroundcolor="#212121"
       menutextcolor="#ffffff"
       statuscolor="#212121" />
     <toolbar_icon
