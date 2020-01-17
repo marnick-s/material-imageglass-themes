@@ -18,7 +18,7 @@
       backcolor="#fafafa"
       menubackgroundcolor="#fafafa"
       menutextcolor="#000000"
-      statuscolor="#fafafa" />
+      statuscolor="#000000" />
     <toolbar_icon
       back="ViewPreviousImage.svg"
       next="ViewNextImage.svg"
