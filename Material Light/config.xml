@@ -2,13 +2,12 @@
   <Theme>
     <Info
       name="Material Light"
-      version="2.0.1.1"
-      author="SheepyDev"
-      email="contact@sheepydev.com"
-      website="sheepydev.com"
+      version="2.1"
+      author="marnick-s"
+      website="marnick.ml"
       description="Light-colored (open-source) Material Design theme for ImageGlass. GitHub repo: https://github.com/SheepyDev/material-imageglass-themes"
       type="ImageGlass Theme Configuration"
-      compatibility="6.0"
+      compatibility="7.5"
       preview="preview.png" />
     <main
       topbar=""
@@ -45,6 +44,10 @@
       menu="Menu.svg"
       fliphorz="FlipHorz.svg"
       flipvert="FlipVert.svg"
-      autozoom="AutoZoom.svg" />
+      autozoom="AutoZoom.svg" 
+      gofirst="GoToFirst.svg"
+      golast="GoToLast.svg"
+      edit="Edit.svg"
+      scaletofill="ScaleToFill.svg" />
   </Theme>
 </ImageGlass>

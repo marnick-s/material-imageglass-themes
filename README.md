@@ -3,8 +3,6 @@ Themes for the open-source image viewer ImageGlass (https://github.com/d2phap/Im
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Now finally open source.
-
 ![Material Themes for ImageGlass](https://raw.githubusercontent.com/SheepyDev/material-imageglass-themes/master/README-files/index.png)
 ![Material Icons](https://raw.githubusercontent.com/SheepyDev/material-imageglass-themes/master/README-files/icons.png)
 ![Material Design](https://raw.githubusercontent.com/SheepyDev/material-imageglass-themes/master/README-files/material.png)
